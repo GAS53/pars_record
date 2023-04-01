@@ -1,0 +1,102 @@
+2023-04-01 12:40:40,645 [INFO] record_logger: name PENDULUM - Blood Sugar new_song - PENDULUM - Blood Sugar
+2023-04-01 12:40:41,762 [INFO] record_logger: name PENDULUM - Blood Sugar new_song - PENDULUM - Blood Sugar
+2023-04-01 12:40:43,199 [INFO] record_logger: name PENDULUM - Blood Sugar new_song - PENDULUM - Blood Sugar
+2023-04-01 12:40:44,658 [INFO] record_logger: name PENDULUM - Blood Sugar new_song - PENDULUM - Blood Sugar
+2023-04-01 12:40:46,144 [INFO] record_logger: name PENDULUM - Blood Sugar new_song - PENDULUM - Blood Sugar
+2023-04-01 12:40:47,391 [INFO] record_logger: name PENDULUM - Blood Sugar new_song - PENDULUM - Blood Sugar
+2023-04-01 12:42:24,938 [INFO] record_logger: name CHRISTINA AGUILERA - Genie In The Battle new_song - None
+2023-04-01 12:42:24,939 [INFO] record_logger: save song CHRISTINA AGUILERA - Genie In The Battle
+2023-04-01 12:43:22,191 [INFO] record_logger: name DAVID ZOWIE/LOADSTAR - House Every Weekend new_song - CHRISTINA AGUILERA - Genie In The Battle
+2023-04-01 12:43:22,191 [INFO] record_logger: save song DAVID ZOWIE/LOADSTAR - House Every Weekend
+2023-04-01 12:44:48,930 [INFO] record_logger: name Record Dance Radio new_song - DAVID ZOWIE/LOADSTAR - House Every Weekend
+2023-04-01 12:44:48,930 [INFO] record_logger: not save Record Dance Radio
+2023-04-01 12:44:54,098 [INFO] record_logger: name Record Dance Radio new_song - None
+2023-04-01 12:44:54,098 [INFO] record_logger: not save Record Dance Radio
+2023-04-01 12:44:57,297 [INFO] record_logger: name Record Dance Radio new_song - None
+2023-04-01 12:44:57,297 [INFO] record_logger: not save Record Dance Radio
+2023-04-01 12:45:00,437 [INFO] record_logger: name Record Dance Radio new_song - None
+2023-04-01 12:45:00,438 [INFO] record_logger: not save Record Dance Radio
+2023-04-01 12:45:04,702 [INFO] record_logger: name Record Dance Radio new_song - None
+2023-04-01 12:45:04,702 [INFO] record_logger: not save Record Dance Radio
+2023-04-01 12:45:07,793 [INFO] record_logger: name Record Dance Radio new_song - None
+2023-04-01 12:45:07,793 [INFO] record_logger: not save Record Dance Radio
+2023-04-01 12:45:10,964 [INFO] record_logger: name Record Dance Radio new_song - None
+2023-04-01 12:45:10,964 [INFO] record_logger: not save Record Dance Radio
+2023-04-01 12:45:14,111 [INFO] record_logger: name Record Dance Radio new_song - None
+2023-04-01 12:45:14,111 [INFO] record_logger: not save Record Dance Radio
+2023-04-01 12:45:17,406 [INFO] record_logger: name Record Dance Radio new_song - None
+2023-04-01 12:45:17,407 [INFO] record_logger: not save Record Dance Radio
+2023-04-01 12:45:20,731 [INFO] record_logger: name Record Dance Radio new_song - None
+2023-04-01 12:45:20,732 [INFO] record_logger: not save Record Dance Radio
+2023-04-01 12:45:23,963 [INFO] record_logger: name Record Dance Radio new_song - None
+2023-04-01 12:45:23,963 [INFO] record_logger: not save Record Dance Radio
+2023-04-01 12:45:28,140 [INFO] record_logger: name Record Dance Radio new_song - None
+2023-04-01 12:45:28,140 [INFO] record_logger: not save Record Dance Radio
+2023-04-01 12:45:31,457 [INFO] record_logger: name Record Dance Radio new_song - None
+2023-04-01 12:45:31,457 [INFO] record_logger: not save Record Dance Radio
+2023-04-01 12:45:34,985 [INFO] record_logger: name Record Dance Radio new_song - None
+2023-04-01 12:45:34,985 [INFO] record_logger: not save Record Dance Radio
+2023-04-01 12:45:38,285 [INFO] record_logger: name Record Dance Radio new_song - None
+2023-04-01 12:45:38,285 [INFO] record_logger: not save Record Dance Radio
+2023-04-01 12:45:41,678 [INFO] record_logger: name Record Dance Radio new_song - None
+2023-04-01 12:45:41,679 [INFO] record_logger: not save Record Dance Radio
+2023-04-01 12:45:46,090 [INFO] record_logger: name Record Dance Radio new_song - None
+2023-04-01 12:45:46,090 [INFO] record_logger: not save Record Dance Radio
+2023-04-01 12:45:50,421 [INFO] record_logger: name Record Dance Radio new_song - None
+2023-04-01 12:45:50,421 [INFO] record_logger: not save Record Dance Radio
+2023-04-01 12:45:54,254 [INFO] record_logger: name Record Dance Radio new_song - None
+2023-04-01 12:45:54,254 [INFO] record_logger: not save Record Dance Radio
+2023-04-01 12:45:57,462 [INFO] record_logger: name Record Dance Radio new_song - None
+2023-04-01 12:45:57,462 [INFO] record_logger: not save Record Dance Radio
+2023-04-01 12:46:04,536 [INFO] record_logger: name Record Dance Radio new_song - None
+2023-04-01 12:46:04,536 [INFO] record_logger: not save Record Dance Radio
+2023-04-01 12:46:07,822 [INFO] record_logger: name Record Dance Radio new_song - None
+2023-04-01 12:46:07,822 [INFO] record_logger: not save Record Dance Radio
+2023-04-01 12:46:11,012 [INFO] record_logger: name Record Dance Radio new_song - None
+2023-04-01 12:46:11,012 [INFO] record_logger: not save Record Dance Radio
+2023-04-01 12:46:14,594 [INFO] record_logger: name Record Dance Radio new_song - None
+2023-04-01 12:46:14,595 [INFO] record_logger: not save Record Dance Radio
+2023-04-01 12:46:32,051 [INFO] record_logger: start pars Radio Record
+2023-04-01 12:46:35,987 [INFO] record_logger: name Record Dance Radio new_song - None
+2023-04-01 12:46:39,997 [INFO] record_logger: name Record Dance Radio new_song - None
+2023-04-01 12:46:43,120 [INFO] record_logger: name Record Dance Radio new_song - None
+2023-04-01 12:46:46,286 [INFO] record_logger: name Record Dance Radio new_song - None
+2023-04-01 12:46:49,532 [INFO] record_logger: name Record Dance Radio new_song - None
+2023-04-01 12:46:52,691 [INFO] record_logger: name Record Dance Radio new_song - None
+2023-04-01 12:46:55,918 [INFO] record_logger: name Record Dance Radio new_song - None
+2023-04-01 12:46:59,044 [INFO] record_logger: name Record Dance Radio new_song - None
+2023-04-01 12:47:02,282 [INFO] record_logger: name Record Dance Radio new_song - None
+2023-04-01 12:47:06,572 [INFO] record_logger: name Record Dance Radio new_song - None
+2023-04-01 12:47:09,720 [INFO] record_logger: name Record Dance Radio new_song - None
+2023-04-01 12:47:12,852 [INFO] record_logger: name Record Dance Radio new_song - None
+2023-04-01 12:47:16,716 [INFO] record_logger: name Record Dance Radio new_song - None
+2023-04-01 12:47:21,467 [INFO] record_logger: name Record Dance Radio new_song - None
+2023-04-01 12:47:24,826 [INFO] record_logger: name Record Dance Radio new_song - None
+2023-04-01 12:47:30,467 [INFO] record_logger: name Record Dance Radio new_song - None
+2023-04-01 12:47:37,088 [INFO] record_logger: name Record Dance Radio new_song - None
+2023-04-01 12:47:40,349 [INFO] record_logger: name TRISTAM/BRAKEN - Frame of Mind new_song - None
+2023-04-01 12:47:40,349 [INFO] record_logger: save song TRISTAM/BRAKEN - Frame of Mind
+2023-04-01 12:47:50,204 [INFO] record_logger: start pars Radio Record
+2023-04-01 12:47:54,703 [INFO] record_logger: name TRISTAM/BRAKEN - Frame of Mind new_song - None
+2023-04-01 12:47:58,522 [INFO] record_logger: name TRISTAM/BRAKEN - Frame of Mind new_song - None
+2023-04-01 12:48:01,952 [INFO] record_logger: name TRISTAM/BRAKEN - Frame of Mind new_song - None
+2023-04-01 12:48:06,231 [INFO] record_logger: name TRISTAM/BRAKEN - Frame of Mind new_song - None
+2023-04-01 12:48:10,429 [INFO] record_logger: name TRISTAM/BRAKEN - Frame of Mind new_song - None
+2023-04-01 12:48:13,621 [INFO] record_logger: name TRISTAM/BRAKEN - Frame of Mind new_song - None
+2023-04-01 12:48:17,818 [INFO] record_logger: name TRISTAM/BRAKEN - Frame of Mind new_song - None
+2023-04-01 12:48:20,901 [INFO] record_logger: name TRISTAM/BRAKEN - Frame of Mind new_song - None
+2023-04-01 12:48:24,021 [INFO] record_logger: name TRISTAM/BRAKEN - Frame of Mind new_song - None
+2023-04-01 12:48:27,319 [INFO] record_logger: name TRISTAM/BRAKEN - Frame of Mind new_song - None
+2023-04-01 12:48:30,424 [INFO] record_logger: name TRISTAM/BRAKEN - Frame of Mind new_song - None
+2023-04-01 12:48:33,522 [INFO] record_logger: name TRISTAM/BRAKEN - Frame of Mind new_song - None
+2023-04-01 12:48:36,646 [INFO] record_logger: name TRISTAM/BRAKEN - Frame of Mind new_song - None
+2023-04-01 12:48:39,737 [INFO] record_logger: name TRISTAM/BRAKEN - Frame of Mind new_song - None
+2023-04-01 12:48:42,848 [INFO] record_logger: name TRISTAM/BRAKEN - Frame of Mind new_song - None
+2023-04-01 12:48:45,006 [INFO] record_logger: start pars Radio Record
+2023-04-01 12:52:29,447 [INFO] record_logger: start pars Radio Record
+2023-04-01 12:52:32,851 [INFO] record_logger: name RUDIMENTAL/JESS GLYNNE/MACKLEMORE/DAN CAPLEN - These Days VIP new_song - None
+2023-04-01 12:52:32,852 [INFO] record_logger: save song RUDIMENTAL/JESS GLYNNE/MACKLEMORE/DAN CAPLEN - These Days VIP
+2023-04-01 12:53:05,681 [INFO] record_logger: start pars Radio Record
+2023-04-01 12:53:18,017 [INFO] record_logger: start pars Radio Record
+2023-04-01 12:53:52,940 [INFO] record_logger: name WILKINSON/KAREN HARDING - All For You new_song - None
+2023-04-01 12:53:52,940 [INFO] record_logger: save song WILKINSON/KAREN HARDING - All For You
