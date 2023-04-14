@@ -3,7 +3,7 @@ import os
 CHECK_TIMEOUT = 3
 FILE_SONGS_NAMES = os.path.join(os.getcwd(), 'songs.txt') 
 SOURCE_LINK = 'http://radiorecord.hostingradio.ru/rr_main96.aacp'
-EXECUTE_NAMES = ['Record Dance Radio', 'Radio Record']
+EXECUTE_NAMES = ['Record Dance Radio', 'Radio Record', '- Record News']
 CLIENT_LOG_PATH = os.path.join(os.getcwd(), 'log.txt') 
 NAME_LOGGER = 'record_logger'
 NAME_PARSER = 'Radio Record'

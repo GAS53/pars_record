@@ -100,3 +100,19 @@
 2023-04-01 12:53:18,017 [INFO] record_logger: start pars Radio Record
 2023-04-01 12:53:52,940 [INFO] record_logger: name WILKINSON/KAREN HARDING - All For You new_song - None
 2023-04-01 12:53:52,940 [INFO] record_logger: save song WILKINSON/KAREN HARDING - All For You
+2023-04-01 12:56:31,737 [INFO] record_logger: name DJ FRESH/SIAN EVANS - Louder new_song - None
+2023-04-01 12:56:31,738 [INFO] record_logger: save song DJ FRESH/SIAN EVANS - Louder
+2023-04-01 12:59:06,547 [INFO] record_logger: name SHY FX/T POWER/DI - Shake Your Body new_song - None
+2023-04-01 12:59:06,547 [INFO] record_logger: save song SHY FX/T POWER/DI - Shake Your Body
+2023-04-01 13:02:29,770 [INFO] record_logger: name SIGMA - Nobody To Love new_song - None
+2023-04-01 13:02:29,770 [INFO] record_logger: save song SIGMA - Nobody To Love
+2023-04-01 13:04:10,766 [INFO] record_logger: name OLIVER HELDENS/BECKY HILL/MATRIX/FUTUREBOUND - Gecko (Overdrive) new_song - None
+2023-04-01 13:04:10,767 [INFO] record_logger: save song OLIVER HELDENS/BECKY HILL/MATRIX/FUTUREBOUND - Gecko (Overdrive)
+2023-04-01 13:06:43,909 [INFO] record_logger: name MELANO - On Fire new_song - None
+2023-04-01 13:06:43,910 [INFO] record_logger: save song MELANO - On Fire
+2023-04-01 13:08:13,270 [INFO] record_logger: name АИДА ВЕДИЩЕВА/VADIM SHANTOR - Лесной олень new_song - None
+2023-04-01 13:08:13,270 [INFO] record_logger: save song АИДА ВЕДИЩЕВА/VADIM SHANTOR - Лесной олень
+2023-04-01 13:10:53,703 [INFO] record_logger: name PHILIP GEORGE/DEXCELL - Wish You Were Mine new_song - None
+2023-04-01 13:10:53,703 [INFO] record_logger: save song PHILIP GEORGE/DEXCELL - Wish You Were Mine
+2023-04-01 13:13:24,731 [INFO] record_logger: name BIRDY/NU LOGIC - Wings new_song - None
+2023-04-01 13:13:24,731 [INFO] record_logger: save song BIRDY/NU LOGIC - Wings

@@ -64,24 +64,43 @@ def check_file():
         with open(settings.FILE_SONGS_NAMES, 'w'):
             ...
 
-def save_song(name):
+def save_song(name, new_name, is_append=True):
+    name = clean_song(name)
     log.info(f'save song {name}')
-    with open(settings.FILE_SONGS_NAMES, 'a') as file:
-        file.write(f'{name}\n')
+    if is_append:
+        is_append='a'
+    else:
+        is_append='w'
+    if new_name:
+        with open(f'{settings.FILE_SONGS_NAMES[:-9]}{new_name}', 'a') as file:
+            file.write(f'{name}\n')
+    else:
+        with open(settings.FILE_SONGS_NAMES, is_append) as file:
+            file.write(f'{name}\n')
 
 def clean_row_songs(li):
     li = [i.strip() for i in li]
     return li
 
-def check_songs(name):
+def clean_song(name):
+    return name.strip()
+
+def get_songs():
     with open(settings.FILE_SONGS_NAMES, 'r') as file:
         songs = file.readlines()
-        songs = clean_row_songs(songs)
     return songs
     
-
+def clean_file():
+    songs = get_songs()
+    songs = [f'{song.strip()}\n' for song in songs]
+    st = set(songs)
+    with open(settings.FILE_SONGS_NAMES, 'w') as file:
+        file.writelines(st)
+    
 
 
 
 if __name__ == '__main__':
     run()
+    # print(check_songs())
+    # clean_file()
