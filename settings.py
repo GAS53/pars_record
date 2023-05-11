@@ -7,7 +7,15 @@ EXECUTE_NAMES = ['Record Dance Radio', 'Radio Record', '- Record News']
 CLIENT_LOG_PATH = os.path.join(os.getcwd(), 'log.txt') 
 NAME_LOGGER = 'record_logger'
 NAME_PARSER = 'Radio Record'
+PICTURES_PATH = os.path.join(os.getcwd(), 'pictures') 
 
+
+def get_pictures():
+    di = {}
+    for root, dir, files in os.walk(PICTURES_PATH):
+        for file in files:
+            di[file] = os.path.join(root, file)
+    return di
 
 LOG_CONFIG = {
 "version": 1,
